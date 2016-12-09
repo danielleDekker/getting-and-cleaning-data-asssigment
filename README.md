@@ -2,9 +2,9 @@
 Coursera Course: Getting and Cleaning DataAssignment
 
 Submission Files
-- [run_analysis.R](https://github.com/danielleDekker/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)
-- [README.md](https://github.com/danielleDekker/Getting-and-Cleaning-Data-Assignment/blob/master/README.md)
-- [CodeBook.md](https://github.com/danielleDekker/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md)
+- [run_analysis.R](https://github.com/danielleDekker/getting-and-cleaning-data-asssigment/blob/master/run_analysis.R)
+- [README.md](https://github.com/danielleDekker/getting-and-cleaning-data-asssigment/blob/master/README.md)
+- [CodeBook.md](https://github.com/danielleDekker/getting-and-cleaning-data-asssigment/blob/master/codeBook.md)
 
 Instructions:
 
