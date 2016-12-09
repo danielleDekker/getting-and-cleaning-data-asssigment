@@ -70,5 +70,5 @@ run_analysis <- function(){ 
     }  
   }   
   # write the tidy dataset to the work directory  
-  write.table(tidy_set,"tidy_dataset.txt")
+  write.table(tidy_set,"tidy_dataset.txt",row.name = FALSE)
 } 
