@@ -69,6 +69,11 @@ run_analysis <- function(){ 
       tidy_set <- rbind(tidy_set, meandat)      
     }  
   }   
+  # add first two column names, convert to dataframe  
+  colnames(tidy_set)[c(1,2)] <- c("activity","subject")    
+  tidy_set <- as.data.frame(tidy_set)    
+  
   # write the tidy dataset to the work directory  
-  write.table(tidy_set,"tidy_dataset.txt",row.name = FALSE)
-} 
+  write.table(tidy_set,"tidy_dataset.txt", row.name = FALSE)
+  
+  } 
