@@ -1,5 +1,7 @@
-CodeBook for the tidy datasetData 
+###CodeBook for the tidy datasetData 
+
 This dataset originated from "Human Activity Recognition Using Smartphones Data Set" available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
 The README of this repository and the features.txt files in the original dataset provide more info about this dataset.
 The data contains measurements on the following variables:
 tBodyAcc-XYZ
